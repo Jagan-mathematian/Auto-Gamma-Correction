@@ -21,3 +21,5 @@ I also attached "notebook" to explore the workflow
 <br />
 
 **Outputs:**
+<br />
+![Color Wheel](/../image/color_wheel.jpeg?raw=true "Optional Title")
