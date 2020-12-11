@@ -22,4 +22,8 @@ I also attached "notebook" to explore the workflow
 
 **Outputs:**
 <br />
-![Color Wheel](/../image/color_wheel.jpeg?raw=true "Optional Title")
+Original Image          |  Processed Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/Jagan-mathematian/graphite/blob/master/Image/color_wheel.jpeg?raw=true) | ![](https://github.com/Jagan-mathematian/graphite/blob/master/Image/Color-Wheel_processed.jpg?raw=true)
+
+![](https://github.com/Jagan-mathematian/graphite/blob/master/Image/light.jpg?raw=true&s=200) | ![](https://github.com/Jagan-mathematian/graphite/blob/master/Image/light_processed.jpg?raw=true&s=100)
